@@ -3,9 +3,13 @@ MeetSumAI
 
 Production-ready AI meeting summarizer for demo day. Paste a transcript and get decisions, actions, and open questions in seconds.
 
-![MeetSumAI Screenshot](screenshot.png)
+## Tech Stack
 
-Features
+- **Frontend**: React + Vite with Tailwind CSS for a modern, responsive UI
+- **Backend**: Node.js with Claude AI integration via Anthropic API
+- **Deployment**: Vercel (frontend) and Render (backend)
+
+## Features
 --------
 - Executive summary bullets from raw meeting notes
 - Action items with owners and deadlines extracted automatically
